@@ -1,0 +1,137 @@
+[
+    {
+        "Nombre": "Catedral de Córdoba",
+        "Descripcion": "La Catedral de Córdoba es una de las iglesias más antiguas de Argentina, ubicada en el corazón de la ciudad.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-25T10:00:00Z",
+        "TsDue": "2024-11-25T10:00:00Z",
+        "NumTelefono": "+54 351 422-3446",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Manzana Jesuítica",
+        "Descripcion": "La Manzana Jesuítica es un conjunto de edificios coloniales, declarado Patrimonio de la Humanidad por la UNESCO.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-24T14:00:00Z",
+        "TsDue": "2024-11-24T14:00:00Z",
+        "NumTelefono": "+54 351 433-2075",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Parque Sarmiento",
+        "Descripcion": "El Parque Sarmiento es el pulmón verde de Córdoba, un lugar ideal para actividades al aire libre y recreación.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-23T09:00:00Z",
+        "TsDue": "2024-11-23T09:00:00Z",
+        "NumTelefono": "+54 351 434-1200",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Museo Evita - Palacio Ferreyra",
+        "Descripcion": "Este museo de arte se encuentra en el emblemático Palacio Ferreyra y alberga una colección de arte argentino.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-22T11:00:00Z",
+        "TsDue": "2024-11-22T11:00:00Z",
+        "NumTelefono": "+54 351 434-3636",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Paseo del Buen Pastor",
+        "Descripcion": "El Paseo del Buen Pastor es un centro cultural y recreativo que incluye una capilla, espacios de arte y áreas comerciales.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-21T12:00:00Z",
+        "TsDue": "2024-11-21T12:00:00Z",
+        "NumTelefono": "+54 351 434-2727",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Plaza San Martín",
+        "Descripcion": "La Plaza San Martín es el corazón histórico de Córdoba, rodeada por la catedral y otros edificios históricos.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-20T15:00:00Z",
+        "TsDue": "2024-11-20T15:00:00Z",
+        "NumTelefono": "+54 351 421-2481",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Museo Emilio Caraffa",
+        "Descripcion": "Este museo de arte contemporáneo es uno de los más importantes de Córdoba, con exposiciones temporales y permanentes.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-19T13:00:00Z",
+        "TsDue": "2024-11-19T13:00:00Z",
+        "NumTelefono": "+54 351 434-3348",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Cerro de las Rosas",
+        "Descripcion": "El Cerro de las Rosas es un barrio tradicional de Córdoba, conocido por sus restaurantes, bares y vida nocturna.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-18T17:00:00Z",
+        "TsDue": "2024-11-18T17:00:00Z",
+        "NumTelefono": "+54 351 481-9900",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Museo de la Industria",
+        "Descripcion": "Dedicado a la historia industrial de Córdoba, este museo destaca la evolución de la industria automotriz y aeronáutica.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-17T09:00:00Z",
+        "TsDue": "2024-11-17T09:00:00Z",
+        "NumTelefono": "+54 351 434-0404",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Barrio Güemes",
+        "Descripcion": "El Barrio Güemes es conocido por sus calles adoquinadas, ferias artesanales y una vibrante escena cultural.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-16T16:00:00Z",
+        "TsDue": "2024-11-16T16:00:00Z",
+        "NumTelefono": "+54 351 482-4943",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Jardín Botánico de Córdoba",
+        "Descripcion": "El Jardín Botánico de Córdoba es un espacio natural dedicado a la conservación de la flora local y exótica.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-15T14:30:00Z",
+        "TsDue": "2024-11-15T14:30:00Z",
+        "NumTelefono": "+54 351 434-4464",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "El Arco de Córdoba",
+        "Descripcion": "El Arco de Córdoba es un monumento icónico que marca la entrada a la ciudad desde el oeste.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-14T10:00:00Z",
+        "TsDue": "2024-11-14T10:00:00Z",
+        "NumTelefono": "+54 351 433-3060",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Zoo de Córdoba",
+        "Descripcion": "El Zoológico de Córdoba es un lugar donde se pueden observar especies animales locales y exóticas.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-13T11:00:00Z",
+        "TsDue": "2024-11-13T11:00:00Z",
+        "NumTelefono": "+54 351 433-3673",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Río Suquía",
+        "Descripcion": "El Río Suquía atraviesa la ciudad y sus márgenes han sido transformadas en espacios verdes y recreativos.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-12T08:00:00Z",
+        "TsDue": "2024-11-12T08:00:00Z",
+        "NumTelefono": "+54 351 422-3446",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    },
+    {
+        "Nombre": "Universidad Nacional de Córdoba",
+        "Descripcion": "La Universidad Nacional de Córdoba es una de las más antiguas de América, con una rica historia académica y cultural.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-11T18:00:00Z",
+        "TsDue": "2024-11-11T18:00:00Z",
+        "NumTelefono": "+54 351 535-3755",
+        "ImagenUrl": "arcocordobescnm.jpg"
+    }
+]
