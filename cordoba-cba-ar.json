@@ -6,7 +6,7 @@
         "TsActivacion": "2024-08-25T10:00:00Z",
         "TsDue": "2024-11-25T10:00:00Z",
         "NumTelefono": "+54 351 422-3446",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Manzana Jesuítica",
@@ -15,7 +15,7 @@
         "TsActivacion": "2024-08-24T14:00:00Z",
         "TsDue": "2024-11-24T14:00:00Z",
         "NumTelefono": "+54 351 433-2075",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Parque Sarmiento",
@@ -24,7 +24,7 @@
         "TsActivacion": "2024-08-23T09:00:00Z",
         "TsDue": "2024-11-23T09:00:00Z",
         "NumTelefono": "+54 351 434-1200",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Museo Evita - Palacio Ferreyra",
@@ -33,7 +33,7 @@
         "TsActivacion": "2024-08-22T11:00:00Z",
         "TsDue": "2024-11-22T11:00:00Z",
         "NumTelefono": "+54 351 434-3636",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Paseo del Buen Pastor",
@@ -42,7 +42,7 @@
         "TsActivacion": "2024-08-21T12:00:00Z",
         "TsDue": "2024-11-21T12:00:00Z",
         "NumTelefono": "+54 351 434-2727",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Plaza San Martín",
@@ -51,7 +51,7 @@
         "TsActivacion": "2024-08-20T15:00:00Z",
         "TsDue": "2024-11-20T15:00:00Z",
         "NumTelefono": "+54 351 421-2481",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Museo Emilio Caraffa",
@@ -60,7 +60,7 @@
         "TsActivacion": "2024-08-19T13:00:00Z",
         "TsDue": "2024-11-19T13:00:00Z",
         "NumTelefono": "+54 351 434-3348",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Cerro de las Rosas",
@@ -69,7 +69,7 @@
         "TsActivacion": "2024-08-18T17:00:00Z",
         "TsDue": "2024-11-18T17:00:00Z",
         "NumTelefono": "+54 351 481-9900",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Museo de la Industria",
@@ -78,7 +78,7 @@
         "TsActivacion": "2024-08-17T09:00:00Z",
         "TsDue": "2024-11-17T09:00:00Z",
         "NumTelefono": "+54 351 434-0404",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Barrio Güemes",
@@ -87,7 +87,7 @@
         "TsActivacion": "2024-08-16T16:00:00Z",
         "TsDue": "2024-11-16T16:00:00Z",
         "NumTelefono": "+54 351 482-4943",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Jardín Botánico de Córdoba",
@@ -96,7 +96,7 @@
         "TsActivacion": "2024-08-15T14:30:00Z",
         "TsDue": "2024-11-15T14:30:00Z",
         "NumTelefono": "+54 351 434-4464",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "El Arco de Córdoba",
@@ -105,7 +105,7 @@
         "TsActivacion": "2024-08-14T10:00:00Z",
         "TsDue": "2024-11-14T10:00:00Z",
         "NumTelefono": "+54 351 433-3060",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Zoo de Córdoba",
@@ -114,7 +114,7 @@
         "TsActivacion": "2024-08-13T11:00:00Z",
         "TsDue": "2024-11-13T11:00:00Z",
         "NumTelefono": "+54 351 433-3673",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Río Suquía",
@@ -123,7 +123,7 @@
         "TsActivacion": "2024-08-12T08:00:00Z",
         "TsDue": "2024-11-12T08:00:00Z",
         "NumTelefono": "+54 351 422-3446",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     },
     {
         "Nombre": "Universidad Nacional de Córdoba",
@@ -132,6 +132,6 @@
         "TsActivacion": "2024-08-11T18:00:00Z",
         "TsDue": "2024-11-11T18:00:00Z",
         "NumTelefono": "+54 351 535-3755",
-        "ImagenUrl": "arcocordobescnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/arcocordobescnm.jpg"
     }
 ]
