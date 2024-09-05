@@ -6,7 +6,7 @@
         "TsActivacion": "2024-08-25T12:00:00Z",
         "TsDue": "2024-11-25T12:00:00Z",
         "NumTelefono": "+54 11 1234-5678",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Teatro Colón",
@@ -15,7 +15,7 @@
         "TsActivacion": "2024-08-24T15:00:00Z",
         "TsDue": "2024-11-24T15:00:00Z",
         "NumTelefono": "+54 11 4378-7100",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Cementerio de la Recoleta",
@@ -24,7 +24,7 @@
         "TsActivacion": "2024-08-23T09:00:00Z",
         "TsDue": "2024-11-23T09:00:00Z",
         "NumTelefono": "+54 11 4803-1594",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Casa Rosada",
@@ -33,7 +33,7 @@
         "TsActivacion": "2024-08-22T11:00:00Z",
         "TsDue": "2024-11-22T11:00:00Z",
         "NumTelefono": "+54 11 4344-3600",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Caminito",
@@ -42,7 +42,7 @@
         "TsActivacion": "2024-08-21T10:30:00Z",
         "TsDue": "2024-11-21T10:30:00Z",
         "NumTelefono": "+54 11 4301-1080",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Plaza de Mayo",
@@ -51,7 +51,7 @@
         "TsActivacion": "2024-08-20T13:00:00Z",
         "TsDue": "2024-11-20T13:00:00Z",
         "NumTelefono": "+54 11 4342-6200",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Museo Nacional de Bellas Artes",
@@ -60,7 +60,7 @@
         "TsActivacion": "2024-08-19T14:00:00Z",
         "TsDue": "2024-11-19T14:00:00Z",
         "NumTelefono": "+54 11 5288-9900",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Palermo Soho",
@@ -69,7 +69,7 @@
         "TsActivacion": "2024-08-18T17:00:00Z",
         "TsDue": "2024-11-18T17:00:00Z",
         "NumTelefono": "+54 11 4831-9663",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Café Tortoni",
@@ -78,7 +78,7 @@
         "TsActivacion": "2024-08-17T16:00:00Z",
         "TsDue": "2024-11-17T16:00:00Z",
         "NumTelefono": "+54 11 4342-4328",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Jardín Japonés",
@@ -87,7 +87,7 @@
         "TsActivacion": "2024-08-16T09:30:00Z",
         "TsDue": "2024-11-16T09:30:00Z",
         "NumTelefono": "+54 11 4804-9141",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Planetario Galileo Galilei",
@@ -96,7 +96,7 @@
         "TsActivacion": "2024-08-15T20:00:00Z",
         "TsDue": "2024-11-15T20:00:00Z",
         "NumTelefono": "+54 11 4771-9393",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Puente de la Mujer",
@@ -105,7 +105,7 @@
         "TsActivacion": "2024-08-14T12:00:00Z",
         "TsDue": "2024-11-14T12:00:00Z",
         "NumTelefono": "+54 11 4315-0900",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "La Bombonera",
@@ -114,7 +114,7 @@
         "TsActivacion": "2024-08-13T18:00:00Z",
         "TsDue": "2024-11-13T18:00:00Z",
         "NumTelefono": "+54 11 4309-4700",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "El Ateneo Grand Splendid",
@@ -123,7 +123,7 @@
         "TsActivacion": "2024-08-12T11:30:00Z",
         "TsDue": "2024-11-12T11:30:00Z",
         "NumTelefono": "+54 11 4813-6052",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     },
     {
         "Nombre": "Reserva Ecológica Costanera Sur",
@@ -132,6 +132,6 @@
         "TsActivacion": "2024-08-11T08:00:00Z",
         "TsDue": "2024-11-11T08:00:00Z",
         "NumTelefono": "+54 11 4315-1320",
-        "ImagenUrl": "obeliscocnm.jpg"
+        "ImagenUrl": "https://raw.githubusercontent.com/zappingstreaming/testassets/main/images/obeliscocnm.jpg"
     }
 ]
