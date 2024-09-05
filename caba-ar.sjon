@@ -1,0 +1,137 @@
+[
+    {
+        "Nombre": "Obelisco de Buenos Aires",
+        "Descripcion": "El Obelisco es un ícono histórico y cultural de la ciudad de Buenos Aires, ubicado en la intersección de las avenidas Corrientes y 9 de Julio.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-25T12:00:00Z",
+        "TsDue": "2024-11-25T12:00:00Z",
+        "NumTelefono": "+54 11 1234-5678",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Teatro Colón",
+        "Descripcion": "El Teatro Colón es uno de los teatros de ópera más importantes del mundo, conocido por su acústica y valor patrimonial.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-24T15:00:00Z",
+        "TsDue": "2024-11-24T15:00:00Z",
+        "NumTelefono": "+54 11 4378-7100",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Cementerio de la Recoleta",
+        "Descripcion": "El Cementerio de la Recoleta es famoso por sus mausoleos de mármol, estatuas y las tumbas de figuras históricas argentinas.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-23T09:00:00Z",
+        "TsDue": "2024-11-23T09:00:00Z",
+        "NumTelefono": "+54 11 4803-1594",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Casa Rosada",
+        "Descripcion": "La Casa Rosada es la sede del Poder Ejecutivo de Argentina y uno de los edificios más emblemáticos del país.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-22T11:00:00Z",
+        "TsDue": "2024-11-22T11:00:00Z",
+        "NumTelefono": "+54 11 4344-3600",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Caminito",
+        "Descripcion": "Caminito es una colorida calle-museo y un tradicional pasaje peatonal, símbolo del barrio de La Boca.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-21T10:30:00Z",
+        "TsDue": "2024-11-21T10:30:00Z",
+        "NumTelefono": "+54 11 4301-1080",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Plaza de Mayo",
+        "Descripcion": "La Plaza de Mayo es el sitio donde se fundó la ciudad en 1580 y escenario de los eventos políticos más importantes del país.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-20T13:00:00Z",
+        "TsDue": "2024-11-20T13:00:00Z",
+        "NumTelefono": "+54 11 4342-6200",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Museo Nacional de Bellas Artes",
+        "Descripcion": "El Museo Nacional de Bellas Artes alberga la mayor colección pública de arte argentino y cuenta con obras de artistas internacionales.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-19T14:00:00Z",
+        "TsDue": "2024-11-19T14:00:00Z",
+        "NumTelefono": "+54 11 5288-9900",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Palermo Soho",
+        "Descripcion": "Palermo Soho es una de las zonas más modernas de Buenos Aires, conocida por sus boutiques de diseño, bares y restaurantes.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-18T17:00:00Z",
+        "TsDue": "2024-11-18T17:00:00Z",
+        "NumTelefono": "+54 11 4831-9663",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Café Tortoni",
+        "Descripcion": "El Café Tortoni es el café más antiguo de Argentina y un importante lugar de encuentro cultural en Buenos Aires.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-17T16:00:00Z",
+        "TsDue": "2024-11-17T16:00:00Z",
+        "NumTelefono": "+54 11 4342-4328",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Jardín Japonés",
+        "Descripcion": "El Jardín Japonés es un parque en Palermo, construido por la colectividad japonesa y es uno de los más grandes de su tipo fuera de Japón.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-16T09:30:00Z",
+        "TsDue": "2024-11-16T09:30:00Z",
+        "NumTelefono": "+54 11 4804-9141",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Planetario Galileo Galilei",
+        "Descripcion": "El Planetario Galileo Galilei es un centro de divulgación astronómica, ubicado en el barrio de Palermo.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-15T20:00:00Z",
+        "TsDue": "2024-11-15T20:00:00Z",
+        "NumTelefono": "+54 11 4771-9393",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Puente de la Mujer",
+        "Descripcion": "El Puente de la Mujer es un puente giratorio peatonal y uno de los símbolos modernos de la ciudad, ubicado en Puerto Madero.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-14T12:00:00Z",
+        "TsDue": "2024-11-14T12:00:00Z",
+        "NumTelefono": "+54 11 4315-0900",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "La Bombonera",
+        "Descripcion": "El Estadio Alberto J. Armando, conocido como La Bombonera, es la casa del Club Atlético Boca Juniors y un lugar icónico del fútbol argentino.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-13T18:00:00Z",
+        "TsDue": "2024-11-13T18:00:00Z",
+        "NumTelefono": "+54 11 4309-4700",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "El Ateneo Grand Splendid",
+        "Descripcion": "El Ateneo Grand Splendid es una de las librerías más hermosas del mundo, ubicada en un antiguo teatro en el barrio de Recoleta.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-12T11:30:00Z",
+        "TsDue": "2024-11-12T11:30:00Z",
+        "NumTelefono": "+54 11 4813-6052",
+        "ImagenUrl": "obeliscocnm.jpg"
+    },
+    {
+        "Nombre": "Reserva Ecológica Costanera Sur",
+        "Descripcion": "La Reserva Ecológica Costanera Sur es un área natural protegida, ideal para caminar y observar la flora y fauna local.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-11T08:00:00Z",
+        "TsDue": "2024-11-11T08:00:00Z",
+        "NumTelefono": "+54 11 4315-1320",
+        "ImagenUrl": "obeliscocnm.jpg"
+    }
+]
