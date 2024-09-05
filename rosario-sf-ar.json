@@ -1,0 +1,146 @@
+[
+    {
+        "Nombre": "Monumento Nacional a la Bandera",
+        "Descripcion": "El Monumento Nacional a la Bandera es uno de los emblemas más importantes de Argentina. Ubicado a orillas del río Paraná, este sitio conmemora la creación de la bandera nacional.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-21T10:00:00Z",
+        "TsDue": "2024-11-21T10:00:00Z",
+        "NumTelefono": "+54 341 480-2238",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Parque de la Independencia",
+        "Descripcion": "Es uno de los parques más grandes y antiguos de Rosario, con amplios espacios verdes, lagos y museos. Un lugar ideal para pasear y relajarse.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-20T09:30:00Z",
+        "TsDue": "2024-11-20T09:30:00Z",
+        "NumTelefono": "+54 341 480-2190",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Museo de Arte Contemporáneo de Rosario (MACRo)",
+        "Descripcion": "Ubicado en un antiguo silo, el MACRo es un espacio dedicado al arte contemporáneo, con exposiciones temporales y una colección permanente de obras de artistas locales e internacionales.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-19T15:45:00Z",
+        "TsDue": "2024-11-19T15:45:00Z",
+        "NumTelefono": "+54 341 480-4981",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Teatro El Círculo",
+        "Descripcion": "Uno de los teatros más antiguos y prestigiosos de Rosario, conocido por su arquitectura imponente y una programación cultural variada.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-18T18:00:00Z",
+        "TsDue": "2024-08-01T18:00:00Z",
+        "NumTelefono": "+54 341 424-5349",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Boulevard Oroño",
+        "Descripcion": "Una de las avenidas más emblemáticas de la ciudad, conocida por sus casonas históricas, bares y restaurantes, así como por sus arboladas veredas.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-21T12:00:00Z",
+        "TsDue": "2024-11-21T12:00:00Z",
+        "NumTelefono": "+54 341 480-2011",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "La Isla de los Inventos",
+        "Descripcion": "Un centro interactivo para niños y adultos, donde se puede aprender y jugar a través de actividades lúdicas y educativas relacionadas con la ciencia y la tecnología.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-21T09:00:00Z",
+        "TsDue": "2024-11-21T09:00:00Z",
+        "NumTelefono": "+54 341 449-6510",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Museo Histórico Provincial Dr. Julio Marc",
+        "Descripcion": "Museo que alberga una importante colección de arte, documentos y objetos históricos que cuentan la historia de Rosario y la región.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-20T14:00:00Z",
+        "TsDue": "2024-11-20T14:00:00Z",
+        "NumTelefono": "+54 341 472-1457",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Calle Córdoba",
+        "Descripcion": "Principal arteria comercial de Rosario, donde se encuentran tiendas, restaurantes y edificios históricos que reflejan la arquitectura de la ciudad.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-19T11:00:00Z",
+        "TsDue": "2024-11-19T11:00:00Z",
+        "NumTelefono": "+54 341 480-2160",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Jardín de los Niños",
+        "Descripcion": "Un parque temático educativo para niños, con actividades interactivas que fomentan el aprendizaje a través del juego.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-21T16:00:00Z",
+        "TsDue": "2024-11-21T16:00:00Z",
+        "NumTelefono": "+54 341 480-2421",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Museo Municipal de Bellas Artes Juan B. Castagnino",
+        "Descripcion": "El museo más importante de la ciudad, que alberga una vasta colección de obras de arte argentino e internacional.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-20T13:00:00Z",
+        "TsDue": "2024-11-20T13:00:00Z",
+        "NumTelefono": "+54 341 480-2542",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Centro Cultural Roberto Fontanarrosa",
+        "Descripcion": "Centro cultural que ofrece una variada programación de exposiciones, conciertos, y conferencias, en honor al famoso historietista rosarino.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-19T17:00:00Z",
+        "TsDue": "2024-11-19T17:00:00Z",
+        "NumTelefono": "+54 341 480-2196",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "El Cairo, Cine Público",
+        "Descripcion": "Un cine emblemático de Rosario que proyecta películas nacionales e internacionales, y es conocido por su ambiente nostálgico y acogedor.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-18T20:00:00Z",
+        "TsDue": "2024-11-18T20:00:00Z",
+        "NumTelefono": "+54 341 472-7888",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Plaza San Martín",
+        "Descripcion": "Una de las plazas más antiguas de Rosario, rodeada de edificios históricos y conmemorativos. Un espacio verde ideal para descansar y disfrutar de la ciudad.",
+        "Destacado": false,
+        "TsActivacion": "2024-08-21T08:00:00Z",
+        "TsDue": "2024-11-21T08:00:00Z",
+        "NumTelefono": "+54 341 480-2034",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Planetario Luis C. Carballo",
+        "Descripcion": "Un planetario moderno donde se pueden observar estrellas, planetas y constelaciones, así como asistir a conferencias y talleres astronómicos.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-20T18:30:00Z",
+        "TsDue": "2024-11-20T18:30:00Z",
+        "NumTelefono": "+54 341 480-2177",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "Parque España",
+        "Descripcion": "Un espacio cultural y recreativo a orillas del río Paraná, que incluye teatros, salas de exposición y un anfiteatro al aire libre.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-19T14:30:00Z",
+        "TsDue": "2024-11-19T14:30:00Z",
+        "NumTelefono": "+54 341 480-2033",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    },
+    {
+        "Nombre": "La Florida",
+        "Descripcion": "La playa más famosa de Rosario, ubicada a orillas del río Paraná, ideal para disfrutar del sol, practicar deportes acuáticos y relajarse.",
+        "Destacado": true,
+        "TsActivacion": "2024-08-21T11:00:00Z",
+        "TsDue": "2024-11-21T11:00:00Z",
+        "NumTelefono": "+54 341 480-2035",
+        "ImagenUrl": "monumentobanderacnm.jpg"
+    }
+]
